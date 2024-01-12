@@ -1,0 +1,7 @@
+@inproceedings{REPO035,
+    author = "Cai, Yuanhao and Lin, Jing and Hu, Xiaowan and Wang, Haoqian and Yuan, Xin and Zhang, Yulun and Timofte, Radu and Van Gool, Luc",
+    booktitle = "European Conference on Computer Vision",
+    pages = "686-704",
+    title = "{Coarse-to-Fine Sparse Transformer for Hyperspectral Image Reconstruction}",
+    year = "2022"
+}
